@@ -20,4 +20,5 @@ Interactive Tableau dashboard analysing sales performance across time, product c
 - Tableau Public link — interactive version
 
 Preview
-![Dashboard Preview](https://public.tableau.com/static/images/Re/RetailSalesDashboardSuperstoreData/TotalSalesKPI/1.png)
+![Dashboard Preview](images/dashboard_preview.png)
+
