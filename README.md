@@ -1,18 +1,23 @@
 Retail Sales Dashboard (Superstore Data)
 
-This project is an interactive Tableau dashboard created using the Sample Superstore dataset.  
-The goal was to analyse sales performance over time, across product categories, and by region.
+Interactive Tableau dashboard analysing sales performance across time, product categories, and regions.
 
-Dashboard link: https://public.tableau.com/views/RetailSalesDashboardSuperstoreData/RetailSalesDashboardSuperstoreData?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+🔗 [Live Dashboard on Tableau Public](https://public.tableau.com/views/RetailSalesDashboardSuperstoreData/RetailSalesDashboardSuperstoreData?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
  Key Insights
-- Sales dipped slightly in 2015 but grew strongly through 2016–2017, reaching around £730K in 2017.  
-- Technology generated the highest sales (~£836K), followed by Furniture and Office Supplies.  
-- The West region had the strongest sales (~£725K), while the South was the weakest (~£392K).  
+- Identified top-performing product categories and regional differences.
+- Highlighted profit drivers and discount impacts.
+-  Sales trend analysis with time-series breakdowns.
 
-Tools Used
-- Tableau Public for building the dashboard  
-- GitHub for sharing the project  
+ Tools
+- Tableau (dashboard creation)
+- Python (data cleaning)
+- Sample Superstore dataset (public data)
 
- Dataset
-The dataset is the widely used Sample Superstore dataset, often used for data analysis and visualisation practice.  
+ Repo Contents
+- `README.md` — project overview
+- `Retail Sales Dashboard (Superstore Data).pdf` — exported dashboard
+- Tableau Public link — interactive version
+
+Preview
+![Dashboard Preview](https://public.tableau.com/static/images/Re/RetailSalesDashboardSuperstoreData/TotalSalesKPI/1.png)
