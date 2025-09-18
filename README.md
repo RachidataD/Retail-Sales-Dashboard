@@ -20,5 +20,6 @@ Interactive Tableau dashboard analysing sales performance across time, product c
 - Tableau Public link — interactive version
 
 Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
+
 
